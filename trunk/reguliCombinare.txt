@@ -1,0 +1,4 @@
+reguli de combinare : 
+- daca sunt pe aceeasi pozitie si semn diferit la valente pot interactiona cu forta=  mod  |suma dintre ele| ;
+- daca sunt la dist de 1 
+- in  the same space we can have only composed molecules or atoms but not both or 2 different types?
